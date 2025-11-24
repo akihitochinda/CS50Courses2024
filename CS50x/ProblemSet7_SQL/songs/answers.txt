@@ -1,0 +1,13 @@
+An audio aura is determined by looking at the average energy, valence, and danceability
+
+Energey Ave. 0.659
+Valence Ave. 0.484
+Danceability Ave. 0.716
+
+If songs.db contains the top 100 songs of one listener from 2018, how would you characterize their audio aura?
+->Because the valence average shows low value while other two energy and danceability average shows a bit higher value than valence one,
+they may seek to musics that make them happier in general.
+
+Hypothesize about why the way you’ve calculated this aura might not be very representative of the listener. What better ways of calculating this aura would you propose?
+->The data that comes from only top 100 songs may lack of creditability to substantiate the representation of all og the users.
+Thus, we simply need to include more data in the table.
